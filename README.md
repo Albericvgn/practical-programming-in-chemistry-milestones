@@ -11,7 +11,7 @@ The **personal milestones table** outlines key milestones for practical programm
 | 1    | Github Profile Page                         | https://github.com/albericvgn/albericvgn                                    |
 | 1    | Commit and Push Change from Command Line    | https://github.com/albericvgn/ppchem/commit/10d9b8bacd729d2750e4bb5ed9a2b3e33b8c1a90              |
 | 1    | Create a New Branch                         | https://github.com/albericvgn/ppchem/tree/new-branch-name              |
-| 1    | Create a conda environment                  | https://github.com/albericvgn/ppchem/blob/`branch-name`/`ppchem.yml`      |
+| 1    | Create a conda environment                  | https://github.com/albericvgn/chem/blob/`branch-name`/`env.yml`      |
 | 1    | Fork a Repo                                 | https://github.com/albericvgn/practical-programming-in-chemistry-milestones |
 | 1    | (Optional) Make a Pull Request              | |
 | 2    | (Optional) Review a Pull Request            | |
